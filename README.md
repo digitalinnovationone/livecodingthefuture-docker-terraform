@@ -7,7 +7,7 @@
 *   Ter conhecimentos de python
 
 
-#Tecnologias:
+# Tecnologias:
 
 
 *   Python https://www.python.org/
