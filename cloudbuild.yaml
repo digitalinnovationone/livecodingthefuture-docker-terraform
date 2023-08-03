@@ -1,5 +1,5 @@
 steps:
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/${_PROJECT_ID}/meuprojetopython', '.']
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/${_PROJECT_ID}/meuprojetopython']
+  - name: "gcr.io/cloud-builders/docker"
+    args: ["build", "-t", "gcr.io/${_PROJECT_ID}/meuprojetopython", "."]
+  - name: "gcr.io/cloud-builders/docker"
+    args: ["push", "gcr.io/${_PROJECT_ID}/meuprojetopython"]
